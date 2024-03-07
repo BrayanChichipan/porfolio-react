@@ -3,21 +3,13 @@ import React from "react";
 const ServiceContent = [
   {
     icon: "icon-mobile",
-    title: "Web Design",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Front End Development",
+    descriptions: `On the front-end side, I specialize in creating dynamic, responsive websites using React, Next.js, and SASS. My approach combines modern JavaScript frameworks with advanced CSS techniques to craft seamless user experiences, prioritizing accessibility, and performance. I'm dedicated to building interactive, visually compelling web applications that stand out in the digital landscape.`,
   },
   {
     icon: "icon-desktop",
-    title: "Web Development",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
-  },
-  {
-    icon: "icon-target",
-    title: "Seo Marketing",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Back End Development",
+    descriptions: `In the realm of back-end development, I harness the power of Node.js, Express, and NestJS to build robust and scalable server-side applications. My expertise lies in creating efficient, secure APIs, managing databases, and integrating third-party services, ensuring a solid foundation for web applications that require high performance and reliability.`,
   },
 ];
 export default function Service() {

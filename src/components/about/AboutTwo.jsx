@@ -14,15 +14,15 @@ const AboutTwo = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/about-me-2.jpg" alt="about" />
+                    <img src="img/about/about-me-2.png" alt="about" />
                   </div>
                   <Social />
                   {/* End social icon */}
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>Ux/Ui Designer</p>
-                  <h3>Nairobi Gadot</h3>
+                  <p>Full stack Developer</p>
+                  <h3>Brayan Chichipan</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -37,16 +37,19 @@ const AboutTwo = () => {
                 </div>
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    I'm a Freelancer Front-end Developer with over 4 years of
+                    experience. I'm from México. I code and create web elements
+                    for amazing people around the world. I like work with new
+                    people. New people new Experiences.
                   </p>
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    My expertise spans a wide array of JavaScript technologies,
+                    including Node.js for scalable back-end services, React for
+                    dynamic user interfaces, and Next JS for full stack
+                    applications on production., among others. This
+                    comprehensive skill set allows me to approach projects with
+                    a holistic perspective, ensuring that every aspect of the
+                    user's experience is meticulously crafted and optimized.
                   </p>
                 </div>
                 <div className="info-list">
@@ -55,19 +58,16 @@ const AboutTwo = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>Brayan Chichipan</span>
                         </li>
-                        <li>
-                          <label>Birthday: </label>
-                          <span>4th April 1994</span>
-                        </li>
+
                         <li>
                           <label>Age: </label>
-                          <span>26 years</span>
+                          <span>27 years</span>
                         </li>
                         <li>
                           <label>Address: </label>
-                          <span>San Francisco</span>
+                          <span>México</span>
                         </li>
                       </ul>
                     </div>
@@ -75,19 +75,11 @@ const AboutTwo = () => {
                       <ul>
                         <li>
                           <label>Phone: </label>
-                          <span>(+38) 469 2344 2364</span>
+                          <span>(+52) 4434808629</span>
                         </li>
                         <li>
                           <label>Email: </label>
-                          <span>info@domainname.com</span>
-                        </li>
-                        <li>
-                          <label>Skype: </label>
-                          <span>nairob.40</span>
-                        </li>
-                        <li>
-                          <label>Freelance: </label>
-                          <span>Available</span>
+                          <span>bchichipan.zavala@gmail.com</span>
                         </li>
                       </ul>
                     </div>
@@ -115,37 +107,37 @@ const AboutTwo = () => {
           {/* End .row */}
 
           {/* separated */}
-          <div
+          {/* <div
             className="separated"
             style={{
               backgroundImage: `url(${
                 process.env.PUBLIC_URL + "img/border-dark.png"
               })`,
             }}
-          ></div>
+          ></div> */}
           {/* End separated */}
 
-          <div className="title">
+          {/* <div className="title">
             <h3>Awards.</h3>
           </div>
-          <Awards />
+          <Awards /> */}
           {/* End Awards */}
 
           {/* separated */}
-          <div
+          {/* <div
             className="separated"
             style={{
               backgroundImage: `url(${
                 process.env.PUBLIC_URL + "img/border-dark.png"
               })`,
             }}
-          ></div>
+          ></div> */}
           {/* End separated */}
 
-          <div className="title">
+          {/* <div className="title">
             <h3>Testimonials.</h3>
           </div>
-          <Testimonials />
+          <Testimonials /> */}
           {/* End Testimonaial */}
         </div>
       </section>

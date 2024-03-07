@@ -3,10 +3,8 @@ import TextLoop from "react-text-loop";
 import Particles from "react-tsparticles";
 
 const sliderContent = {
-  name: "Reyeila Arifia",
-  description: `I design and develop services for customers of all sizes,
-  specializing in creating stylish, modern websites, web
-  services and online stores.`,
+  name: "Brayan Chichipan",
+  description: `I'm a Full Stack Developer specializing in the JavaScript stack, with a passion for crafting engaging front-end experiences. I deliver intuitive and visually appealing web applications.`,
   btnText: "DOWNLOAD CV",
 };
 
@@ -17,11 +15,11 @@ const SliderTwo = () => {
       <section
         id="home"
         className="home-banner home-banner-two"
-        style={{
-          backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/slider/home-banner-3.jpg"
-          })`,
-        }}
+        // style={{
+        //   backgroundImage: `url(${
+        //     process.env.PUBLIC_URL + "img/slider/home-banner-3.jpg"
+        //   })`,
+        // }}
       >
         <div className="frame-layout__particles">
           <Particles
@@ -133,8 +131,8 @@ const SliderTwo = () => {
                 >
                   <TextLoop>
                     <p className="loop-text lead"> Software Engineer</p>
-                    <p className="loop-text lead">Visual Designer</p>
-                    <p className="loop-text lead"> Grphic Designer</p>
+                    <p className="loop-text lead">Front End Engineer</p>
+                    <p className="loop-text lead"> Back End Engineer</p>
                   </TextLoop>
                 </div>
                 <p

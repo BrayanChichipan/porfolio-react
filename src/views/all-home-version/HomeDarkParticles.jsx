@@ -27,14 +27,14 @@ const HomeLightSidebarTwo = () => {
       <Resume />
       {/* End Resume Section */}
 
-      <section id="work" className="section theme-light dark-bg">
+      {/* <section id="work" className="section theme-light dark-bg">
         <div className="container">
           <div className="title">
             <h3>My Portfolio.</h3>
           </div>
           <Portfolio />
         </div>
-      </section>
+      </section> */}
       {/* End Portfolio Section */}
 
       <section id="blog" className="section">
@@ -54,19 +54,19 @@ const HomeLightSidebarTwo = () => {
               <ContactInfo />
             </div>
             {/* End Contact info */}
-
+            {/* 
             <div className="col-lg-7 ml-auto m-15px-tb  ">
               <div className="contact-form">
                 <h4>Say Something</h4>
                 <Contact />
               </div>
-            </div>
+            </div> */}
             {/* End contact form */}
 
-            <div className="col-12">
-              <Map />
-              {/* End google-map */}
-            </div>
+            {/* <div className="col-12"> */}
+            {/* <Map /> */}
+            {/* End google-map */}
+            {/* </div> */}
             {/* End Col */}
           </div>
         </div>

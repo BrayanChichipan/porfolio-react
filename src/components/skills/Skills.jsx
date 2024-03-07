@@ -4,28 +4,58 @@ import VisibilitySensor from "react-visibility-sensor";
 
 const skillContent = [
   {
-    name: "HTML5",
-    numberPercent: "92",
-    startCount: "0",
-    endCount: "92",
-  },
-  {
-    name: "React JS",
-    numberPercent: "85",
-    startCount: "0",
-    endCount: "85",
-  },
-  {
-    name: "Vue Js",
+    name: "JavaScript (TypeScript)",
     numberPercent: "90",
     startCount: "0",
     endCount: "90",
   },
   {
-    name: "Ui/Ux",
-    numberPercent: "88",
+    name: "React JS (Next JS)",
+    numberPercent: "90",
     startCount: "0",
-    endCount: "88",
+    endCount: "90",
+  },
+  {
+    name: "Node (Express)",
+    numberPercent: "75",
+    startCount: "0",
+    endCount: "75",
+  },
+  {
+    name: "HTML5",
+    numberPercent: "90",
+    startCount: "0",
+    endCount: "90",
+  },
+  {
+    name: "CSS (SASS)",
+    numberPercent: "85",
+    startCount: "0",
+    endCount: "85",
+  },
+  {
+    name: "Git",
+    numberPercent: "90",
+    startCount: "0",
+    endCount: "90",
+  },
+  {
+    name: "Architectural Patterns",
+    numberPercent: "80",
+    startCount: "0",
+    endCount: "80",
+  },
+  {
+    name: "SQL Databases",
+    numberPercent: "75",
+    startCount: "0",
+    endCount: "75",
+  },
+  {
+    name: "Docker (Docker Compose)",
+    numberPercent: "75",
+    startCount: "0",
+    endCount: "75",
   },
 ];
 

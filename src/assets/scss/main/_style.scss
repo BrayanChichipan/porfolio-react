@@ -637,11 +637,24 @@
       font-size: 12px;
       font-weight: 500;
     }
+
+    
   }
   .rb-right {
     p {
       margin-bottom: 0;
     }
+  }
+
+  .rb-tec{
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 3px;
+    color: $px-white;
+    border: 1px solid $px-theme;
+    font-size: 12px;
+    font-weight: 500;
+  
   }
 }
 
