@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/porfolio-react/static/css/main.838af40f.css",
-    "main.js": "/porfolio-react/static/js/main.a1e2a3b7.js",
+    "main.js": "/porfolio-react/static/js/main.d939b139.js",
     "static/js/206.6b951206.chunk.js": "/porfolio-react/static/js/206.6b951206.chunk.js",
     "static/media/et-line.svg": "/porfolio-react/static/media/et-line.3e441a4587befc7eeb4f.svg",
     "static/media/et-line.woff": "/porfolio-react/static/media/et-line.d59b23856f66f9876c47.woff",
@@ -15,6 +15,6 @@
   },
   "entrypoints": [
     "static/css/main.838af40f.css",
-    "static/js/main.a1e2a3b7.js"
+    "static/js/main.d939b139.js"
   ]
 }

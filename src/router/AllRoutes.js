@@ -16,6 +16,7 @@ const AllRoutes = () => {
       <ScrollTopBehaviour />
       <Routes>
         <Route path="/" element={<HomeDarkParticles />} />
+        <Route path="/porfolio-react" element={<HomeDarkParticles />} />
         {/* <Route path="/" element={<Preview />} /> */}
         {/* <Route path="/home-light-animation" element={<HomeLightAnimation />} />
         <Route
