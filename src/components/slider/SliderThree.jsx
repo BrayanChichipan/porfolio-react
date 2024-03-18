@@ -151,7 +151,7 @@ const SliderTwo = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
+                    href="assets/curriculum.pdf"
                     download
                   >
                     {sliderContent.btnText}
