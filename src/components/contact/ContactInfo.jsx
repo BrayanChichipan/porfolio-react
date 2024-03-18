@@ -25,7 +25,7 @@ const ContactInfo = () => {
 
           <li className="media">
             <i className="icon icon-phone"></i>
-            <span className="media-body">+052 443 4808 629</span>
+            <span className="media-body">+52 443 4808 629</span>
           </li>
           {/* End li */}
         </ul>

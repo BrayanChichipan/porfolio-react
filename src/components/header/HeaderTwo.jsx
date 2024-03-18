@@ -68,17 +68,12 @@ const HeaderTwo = () => {
               </a>
             </li>
             <li>
-              <a className="nav-link" href="#work" onClick={handleClick}>
+              <a className="nav-link" href="#portfolio" onClick={handleClick}>
                 <FiBriefcase />
-                <span className="item">Work</span>
+                <span className="item">Portfolio</span>
               </a>
             </li>
-            <li>
-              <a className="nav-link" href="#blog" onClick={handleClick}>
-                <FaBlog />
-                <span className="item">Blog</span>
-              </a>
-            </li>
+      
             <li>
               <a className="nav-link" href="#contactus" onClick={handleClick}>
                 <FiPhoneOutgoing />

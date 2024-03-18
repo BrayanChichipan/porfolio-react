@@ -12,7 +12,7 @@ import Footer from "../../components/footer/Footer";
 import useDocumentTitle from "../../components/useDocumentTitle";
 
 const HomeLightSidebarTwo = () => {
-  useDocumentTitle("Nairo || Sidebar Two React Personal Portfolio Template");
+  useDocumentTitle("Brayan || Portfolio 2023");
   return (
     <div className="main-left theme-dark">
       <Header />
@@ -37,10 +37,10 @@ const HomeLightSidebarTwo = () => {
       </section> */}
       {/* End Portfolio Section */}
 
-      <section id="blog" className="section">
+      <section id="portfolio" className="section">
         <div className="container">
           <div className="title">
-            <h3>Latest Blog.</h3>
+            <h3>Portfolio</h3>
           </div>
           <Blog />
         </div>
