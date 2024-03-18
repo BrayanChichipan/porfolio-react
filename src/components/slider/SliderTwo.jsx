@@ -2,7 +2,7 @@ import React from "react";
 import TextLoop from "react-text-loop";
 
 const sliderContent = {
-  name: "Risue Nairobi",
+  name: "Risue chichipanbi",
   description: `I design and develop services for customers of all sizes,
   specializing in creating stylish, modern websites, web
   services and online stores.`,

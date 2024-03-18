@@ -64,7 +64,7 @@ const AboutThree = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>chichipanbi Gadot</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
@@ -92,7 +92,7 @@ const AboutThree = () => {
                         </li>
                         <li>
                           <label>Skype: </label>
-                          <span>nairob.40</span>
+                          <span>chichipanb.40</span>
                         </li>
                         <li>
                           <label>Freelance: </label>

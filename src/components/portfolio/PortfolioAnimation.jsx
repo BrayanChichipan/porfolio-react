@@ -36,7 +36,7 @@ const tabListContent = [
         alterText: "Illustration",
         delayAnimation: "100",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
       {
         img: "/img/portfolio/m-portfolio-3.jpg",
@@ -175,7 +175,7 @@ const tabListContent = [
         alterText: "Illustration",
         delayAnimation: "",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
 
       {
@@ -249,7 +249,7 @@ const tabListContent = [
         alterText: "Illustration",
         delayAnimation: "",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
       {
         img: "/img/portfolio/m-portfolio-3.jpg",

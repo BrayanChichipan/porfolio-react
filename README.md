@@ -1,4 +1,4 @@
-# Nairo React Personal Portfolio Template
+# chichipan React Personal Portfolio Template
 
 ## Description
 

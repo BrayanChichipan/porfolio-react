@@ -3,11 +3,11 @@ import TextLoop from "react-text-loop";
 
 const conctInfo = {
   phone: "+04 6545-9535-6515",
-  email: " nairobi-designer@domain.com",
+  email: " chichipanbi-designer@domain.com",
 };
 
 const sliderContent = {
-  name: "Nairobi Gadot",
+  name: "chichipanbi Gadot",
   description: `I design and develop services for customers of all sizes,
   specializing in creating stylish, modern websites, web
   services and online stores.`,

@@ -12,7 +12,9 @@ import Footer from "../../components/footer/Footer";
 import useDocumentTitle from "../../components/useDocumentTitle";
 
 const HomeLightSidebarTwo = () => {
-  useDocumentTitle("Nairo || Sidebar Two React Personal Portfolio Template");
+  useDocumentTitle(
+    "chichipan || Sidebar Two React Personal Portfolio Template"
+  );
   document.body.classList.add("theme-light");
   return (
     <div className="main-left">

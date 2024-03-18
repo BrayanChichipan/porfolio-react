@@ -34,7 +34,7 @@ const tabListContent = [
         subTitle: "Nuna ios App",
         alterText: "Illustration",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
       {
         img: "/img/portfolio/m-portfolio-3.jpg",
@@ -161,7 +161,7 @@ const tabListContent = [
         subTitle: "Nuna ios App",
         alterText: "Illustration",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
 
       {
@@ -229,7 +229,7 @@ const tabListContent = [
         subTitle: "Nuna ios App",
         alterText: "Illustration",
         portfolioLink:
-          "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
+          "https://dribbble.com/shots/16529350-chichipan-Personal-Portfolio-React-Template",
       },
       {
         img: "/img/portfolio/m-portfolio-3.jpg",

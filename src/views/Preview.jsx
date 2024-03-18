@@ -79,7 +79,7 @@ const Preview = () => {
           <div className="title-wrapper text-center">
             <span className="tag">Features</span>
             <h2 className="text-black title">
-              <span className="theme-color ">Nairo</span> All Features
+              <span className="theme-color ">chichipan</span> All Features
             </h2>
           </div>
 
@@ -128,14 +128,14 @@ const Preview = () => {
                   data-aos-duration="1200"
                   data-aos-delay="100"
                 >
-                  Purchase The Nairo and Build Your Own{" "}
+                  Purchase The chichipan and Build Your Own{" "}
                   <span className="theme-color">React JS</span> &{" "}
                   <span className="theme-color">Bootstrap5 </span> Based
                   Portfolio Template.
                 </h3>
 
                 <a
-                  href="https://themeforest.net/item/nairo-react-personal-portfolio-template/33404455"
+                  href="https://themeforest.net/item/chichipan-react-personal-portfolio-template/33404455"
                   className="px-btn px-btn-white"
                   target="_blank"
                   rel="noreferrer"

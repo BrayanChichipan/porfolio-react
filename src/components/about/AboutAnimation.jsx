@@ -28,7 +28,7 @@ const About = () => {
                 {/* End img */}
                 <div className="info">
                   <p>Ux/Ui Designer</p>
-                  <h3>Nairobi Gadot</h3>
+                  <h3>chichipanbi Gadot</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -67,7 +67,7 @@ const About = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>chichipanbi Gadot</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
@@ -95,7 +95,7 @@ const About = () => {
                         </li>
                         <li>
                           <label>Skype: </label>
-                          <span>nairob.40</span>
+                          <span>chichipanb.40</span>
                         </li>
                         <li>
                           <label>Freelance: </label>
